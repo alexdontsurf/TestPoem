@@ -1,4 +1,8 @@
+< THE TITLE >
+
 The poem
+
+< HERE STARTS THE POEM >
 
 Roses are red, 
 
@@ -8,6 +12,8 @@ Sugar is sweet
 
 but not as sweet as you.
 
+< STOP >
+
 Roses are red,
 
 violets are blue.
@@ -16,6 +22,8 @@ I hate poems
 
 even more than I hate you.
 
+< STOP >
+
 Roses are red,
 
 violets are blue.
@@ -23,3 +31,5 @@ violets are blue.
 I'm locked in the cellar
 
 with pictures of you.
+
+< THE END >
